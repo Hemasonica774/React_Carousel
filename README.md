@@ -1,4 +1,4 @@
-![image 1](https://github.com/user-attachments/assets/ac32a33d-8949-4fca-b635-34f9179e190a)# Ex05 Image Carousel
+# Ex05 Image Carousel
 ## Date:
 
 ## AIM
